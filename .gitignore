@@ -3,3 +3,4 @@ node_modules/*
 .grunt/*
 
 test-script.js
+demo/index1 copy.html
